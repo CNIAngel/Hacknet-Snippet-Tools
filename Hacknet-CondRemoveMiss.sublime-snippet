@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[<RemoveMissionFromHubServer MissionFilePath="" TargetComp="" />]]></content>
+	<tabTrigger>CondRemoveMiss</tabTrigger>
+</snippet>

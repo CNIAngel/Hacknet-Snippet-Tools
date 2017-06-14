@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[<account username="${1:USER}" password="${2:PASS}" type="${3:TYPE}" />$0]]></content>
+	<tabTrigger>CompAccount</tabTrigger>
+</snippet>

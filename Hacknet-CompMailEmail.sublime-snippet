@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[<email recipient="${1:NAME}" sender="${2:NAME}" subject="${3:SUBJECT}">${4:BODY}</email>$0]]></content>
+	<tabTrigger>CompMailEmail</tabTrigger>
+</snippet>

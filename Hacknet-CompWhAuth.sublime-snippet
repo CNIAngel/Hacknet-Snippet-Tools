@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[<WhitelistAuthenticatorDaemon SelfAuthenticating="" />]]></content>
+	<tabTrigger>CompWhAuth</tabTrigger>
+</snippet>

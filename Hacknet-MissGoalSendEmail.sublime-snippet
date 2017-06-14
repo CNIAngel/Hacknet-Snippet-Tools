@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[<goal type="sendemail" mailServer="" recipient="" subject=""/>]]></content>
+	<tabTrigger>MissGoalSendEmail</tabTrigger>
+</snippet>

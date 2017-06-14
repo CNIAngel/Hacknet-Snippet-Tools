@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[<admin type="${1:TYPE}" resetPassword="${2:BOOL}" isSuper="${3:BOOL}" />$0]]></content>
+	<tabTrigger>CompAuto</tabTrigger>
+</snippet>

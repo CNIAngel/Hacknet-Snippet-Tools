@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[<AddMissionToHubServer MissionFilePath="" TargetComp="" />]]></content>
+	<tabTrigger>CondAddMissCSEC</tabTrigger>
+</snippet>

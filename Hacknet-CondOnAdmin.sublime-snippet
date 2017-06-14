@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<OnAdminGained target="">
+
+	</OnAdminGained>]]></content>
+	<tabTrigger>CondOnAdmin</tabTrigger>
+</snippet>

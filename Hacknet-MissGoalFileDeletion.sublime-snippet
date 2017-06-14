@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[<goal type="filedeletion" target="" file="" path="" />]]></content>
+	<tabTrigger>MissGoalFileDeletion</tabTrigger>
+</snippet>

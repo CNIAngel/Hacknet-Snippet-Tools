@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[<mail username="${1:USER@jmail.com}" pass="${2:PASS}" />$0]]></content>
+	<tabTrigger>CompEosMail</tabTrigger>
+</snippet>

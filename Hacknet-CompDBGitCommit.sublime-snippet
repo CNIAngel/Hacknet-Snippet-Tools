@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[<GitCommitEntry>
+		  <EntryNumber>${1:NUMBER}</EntryNumber>
+		  <ChangedFiles>
+		  	<String>${2:FILE}</String>
+		  </ChangedFiles>
+		  <Message>${3:MESSAGE}</Message>
+		  <UserName>${4:USER}</UserName>
+		  <SourceIP>${5:IP}</SourceIP>
+		</GitCommitEntry>$0]]></content>
+	<tabTrigger>CompDBGitCommitEntry</tabTrigger>
+</snippet>

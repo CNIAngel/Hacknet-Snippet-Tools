@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<mailServer name="${1:NAME}" color="${2:0,0,0}" generateJunk="${3:BOOL}">
+		$0
+	</mailServer>]]></content>
+	<tabTrigger>CompMailStart</tabTrigger>
+</snippet>

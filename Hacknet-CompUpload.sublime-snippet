@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[<uploadServerDaemon name="${1:NAME}" folder="${2:NAME}" needsAuth="${3:BOOL}" color="${4:0,0,0}"/>$0]]></content>
+	<tabTrigger>CompUpload</tabTrigger>
+</snippet>

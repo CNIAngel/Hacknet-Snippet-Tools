@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[<missionHubServer groupName="${1:NAME}" serviceName="${2:NAME}" missionFolderPath="${3:PATH}" themeColor="${4:0,0,0}" lineColor="${5:0,0,0}" backgroundColor="${6:0,0,0}" allowAbandon="${7:BOOL}" />]]></content>
+	<tabTrigger>CompCSEC</tabTrigger>
+</snippet>

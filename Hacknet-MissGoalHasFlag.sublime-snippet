@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[<goal type="hasflag" target=""/>]]></content>
+	<tabTrigger>MissGoalHasFlag</tabTrigger>
+</snippet>

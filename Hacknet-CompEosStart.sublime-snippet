@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<eosDevice name="${1:NAME}" id="${2:ID}" icon="${3:ICON}" empty="${4:BOOL}" passOverride="${5:BOOL}">
+		$0
+	</eosDevice>]]></content>
+	<tabTrigger>CompEosStart</tabTrigger>
+</snippet>

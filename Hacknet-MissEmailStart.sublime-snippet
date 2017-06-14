@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[<email>
+		  <sender></sender>
+		  <subject></subject>
+		  <body></body>
+		  <attachments>
+		  </attachments>
+		</email>]]></content>
+	<tabTrigger>MissEmailStart</tabTrigger>
+</snippet>

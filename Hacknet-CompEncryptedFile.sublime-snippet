@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[<encryptedFile path="${1:PATH}" name="${2:NAME}" extension="${3:.EXT}" ip="${4:IP}" header="{5:HEADER}" pass="{6:PASS}">$0</encryptedFile>]]></content>
+	<tabTrigger>CompEncryptedFile</tabTrigger>
+</snippet>

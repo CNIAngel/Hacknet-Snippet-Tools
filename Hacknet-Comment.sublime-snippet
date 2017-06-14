@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<!--  ${1:COMMENT}  -->$0]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>Comment</tabTrigger>
+	<description>XML Comment for Hacknet</description>
+</snippet>

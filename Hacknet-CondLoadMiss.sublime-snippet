@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[<LoadMission MissionName="" />]]></content>
+	<tabTrigger>CondLoadMiss</tabTrigger>
+</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[<LogoDaemon Name="${1:NAME}" ShowsTitle="${2:BOOL}" TextColor="${3:0,0,0}" LogoImagePath="${4:PATH}">${5:LINES}</LogoDaemon>$0]]></content>
+	<tabTrigger>CompLogo</tabTrigger>
+</snippet>

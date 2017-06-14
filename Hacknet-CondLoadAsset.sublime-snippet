@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[<AddAsset FileName="" FileContents="" TargetComp="" TargetFolderPath="" />]]></content>
+	<tabTrigger>CondLoadAsset</tabTrigger>
+</snippet>

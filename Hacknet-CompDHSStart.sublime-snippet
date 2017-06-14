@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<DHSDaemon groupName="${1:NAME}" addsFactionPointsOnMissionComplete="${2:BOOL}" autoClearMissionsOnPlayerComplete="${3:BOOL}" themeColor="${4:0,0,0}" allowContractAbandon="${5:BOOL}">
+		$0
+	</DHSDaemon>]]></content>
+	<tabTrigger>CompDHSStart</tabTrigger>
+</snippet>

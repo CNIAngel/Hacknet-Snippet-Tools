@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<HasFlags requiredFlasgs="">
+
+	</HasFlags>]]></content>
+	<tabTrigger>CondHasFlags</tabTrigger>
+</snippet>

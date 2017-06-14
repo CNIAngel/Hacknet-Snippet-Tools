@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[<CreditsDaemon Title="${1:TITLE}" ButtonText="${2:TEXT}" ConditionActionSetToRunOnButtonPressPath="${3:PATH}" />$0]]></content>
+	<tabTrigger>CompCredits</tabTrigger>
+</snippet>

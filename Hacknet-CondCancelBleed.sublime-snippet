@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[<CancelScreenBleedEffect DelayHost="" Delay="" />]]></content>
+	<tabTrigger>CondCancelBleed</tabTrigger>
+</snippet>

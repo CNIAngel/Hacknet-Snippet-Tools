@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[<goal type="clearfolder" target="" path="" />]]></content>
+	<tabTrigger>MissGoalClearFolder</tabTrigger>
+</snippet>

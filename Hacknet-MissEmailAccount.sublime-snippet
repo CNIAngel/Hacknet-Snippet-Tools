@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[<account comp="" user="" pass=""/>]]></content>
+	<tabTrigger>MissEmailAccount</tabTrigger>
+</snippet>

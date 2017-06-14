@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[<variableMissionListingServer name="${1:NAME}" iconPath="${2:ICON}" articleFolderPath="${3:PATH}" color="${4:0,0,0}" assigner="${5:NAME}" public="${6:BOOL}" title="${7:TITLE}" />$0]]></content>
+	<tabTrigger>CompEntropy</tabTrigger>
+</snippet>

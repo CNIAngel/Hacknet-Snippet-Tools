@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[<AddIRCMessage Author="" TargetComp="" Delay="" ></AddIRCMessage>]]></content>
+	<tabTrigger>CondAddIRC</tabTrigger>
+</snippet>

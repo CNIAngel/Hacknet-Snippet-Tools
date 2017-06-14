@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[<nextMission isSilent=""></nextMission>]]></content>
+	<tabTrigger>MissNext</tabTrigger>
+</snippet>

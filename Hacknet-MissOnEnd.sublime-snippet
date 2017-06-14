@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[<missionEnd val=""></missionEnd>]]></content>
+	<tabTrigger>MissOnEnd</tabTrigger>
+</snippet>

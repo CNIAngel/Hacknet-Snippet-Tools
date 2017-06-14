@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[<goal type="getstring" target=""/>]]></content>
+	<tabTrigger>MissGoalGetString</tabTrigger>
+</snippet>

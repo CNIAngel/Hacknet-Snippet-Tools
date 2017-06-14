@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<mission id="" activeCheck="" shouldIgnoreSenderVerification="">
+
+	</mission>]]></content>
+	<tabTrigger>MissStart</tabTrigger>
+</snippet>

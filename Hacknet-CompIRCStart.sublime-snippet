@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<IRCDaemon themeColor="${1:0,0,0}" name="${2:NAME}" needsLogin="${3:BOOL}">
+		$0
+	</IRCDaemon>]]></content>
+	<tabTrigger>CompIRCStart</tabTrigger>
+</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[<ChangeIP DelayHost="" Delay="" TargetComp="" NewIP="" />]]></content>
+	<tabTrigger>CondChangeIP</tabTrigger>
+</snippet>

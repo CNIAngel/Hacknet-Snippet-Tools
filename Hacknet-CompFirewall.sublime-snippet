@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[<firewall level="${1:NUM}" solution="${2:STRING}" additionalTime="${3:NUM}"/>$0]]></content>
+	<tabTrigger>CompFirewall</tabTrigger>
+</snippet>

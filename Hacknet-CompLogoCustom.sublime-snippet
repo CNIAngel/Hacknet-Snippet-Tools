@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[<LogoCustomConnectDisplayDaemon logo="${1:LOGO}" title="${2:TITLE}" overdrawLogo="${3:BOOL}" buttonAligement="${4:ALIGN}" />$0]]></content>
+	<tabTrigger>CompLogoCustom</tabTrigger>
+</snippet>

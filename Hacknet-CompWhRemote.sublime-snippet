@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[<WhitelistAuthenticatorDaemon Remote=""/>]]></content>
+	<tabTrigger>CompWhRemote</tabTrigger>
+</snippet>

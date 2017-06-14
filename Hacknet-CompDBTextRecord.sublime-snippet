@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[<TextRecord>
+		  <Title>${1:TITLE}</Title>
+		  <Data>${2:DATA}</Data>
+		</TextRecord>$0]]></content>
+	<tabTrigger>CompDBTextRecord</tabTrigger>
+</snippet>

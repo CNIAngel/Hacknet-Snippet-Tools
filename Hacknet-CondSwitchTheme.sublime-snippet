@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[<SwitchToTheme ThemePathOrName="" FlickerInDuration="" DelayHost="" Delay="" />]]></content>
+	<tabTrigger>CondSwitchTheme</tabTrigger>
+</snippet>

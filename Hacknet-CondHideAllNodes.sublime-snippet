@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[<HideAllNodes DelayHost="" Delay="" />]]></content>
+	<tabTrigger>CondHideAll</tabTrigger>
+</snippet>

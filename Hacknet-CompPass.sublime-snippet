@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[<adminPass pass="" />]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>CompPass</tabTrigger>
+</snippet>

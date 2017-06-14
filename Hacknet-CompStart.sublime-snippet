@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[<Computer id="${1:ID}" name="${2:NAME}" ip="${3:IP}" security="${4:SEC}" allowsDefaultBootModule="${5:BOOL}" icon="${6:ICON}" type="${7:TYPE}">
+
+</Computer>$0]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>CompStart</tabTrigger>
+</snippet>

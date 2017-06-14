@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[<SaveGame DelayHost="" Delay="" />]]></content>
+	<tabTrigger>CondSaveGame</tabTrigger>
+</snippet>

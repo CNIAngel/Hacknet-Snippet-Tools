@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<OnConnect target="" needsMissionComplete="" requiredFlasgs="">
+
+	</OnConnect>]]></content>
+	<tabTrigger>CondOnConnect</tabTrigger>
+</snippet>

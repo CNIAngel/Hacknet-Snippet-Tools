@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[<ChangeAlertIcon Target="" Type="" DelayHost="" Delay="" />]]></content>
+	<tabTrigger>CondChangeAlert</tabTrigger>
+</snippet>

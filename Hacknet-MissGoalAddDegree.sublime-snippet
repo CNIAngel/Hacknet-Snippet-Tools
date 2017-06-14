@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[<goal type="AddDegree" owner="" degree="" uni="" gpa=""/>]]></content>
+	<tabTrigger>MissGoalAddDegree</tabTrigger>
+</snippet>

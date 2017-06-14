@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[<GivePlayerUserAccount DelayHost="" Delay="" TargetComp="" Username="" />]]></content>
+	<tabTrigger>CondGiveAccount</tabTrigger>
+</snippet>

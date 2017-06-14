@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[<file path="${1:PATH}" name="${2:NAME}">$0</file>]]></content>
+	<tabTrigger>CompFile</tabTrigger>
+</snippet>

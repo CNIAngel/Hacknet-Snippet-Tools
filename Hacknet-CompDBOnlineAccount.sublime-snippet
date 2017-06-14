@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[<OnlineAccount>
+		  <ID>${1:ID}</ID>
+		  <Username>${2:USER}</Username>
+		  <BanStatus>${3:STATUS}</BanStatus>
+		  <Notes>${4:NOTES}</Notes>
+		</OnlineAccount>$0]]></content>
+	<tabTrigger>CompDBOnlineAccount</tabTrigger>
+</snippet>

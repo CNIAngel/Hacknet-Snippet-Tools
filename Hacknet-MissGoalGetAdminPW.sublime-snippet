@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[<goal type="getadminpasswordstring" target=""/>]]></content>
+	<tabTrigger>MissGoalGetAdminPW</tabTrigger>
+</snippet>

@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[<note>${1:NOTE}</note>$0]]></content>
+	<tabTrigger>CompEosNote</tabTrigger>
+</snippet>

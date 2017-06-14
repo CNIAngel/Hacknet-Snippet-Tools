@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<DatabaseDaemon Permissions="${1:TYPE}" DataType="${2:TYPE}" Foldername="${3:NAME}" Color="${4:0,0,0}" AdminEmailAccount="${5:EMAIL@EMAIL.COM}" AdminEmailHostID="${6:COMPID}" Name="${7:NAME}">
+		$0
+	</DatabaseDaemon>]]></content>
+	<tabTrigger>CompDBStart</tabTrigger>
+</snippet>

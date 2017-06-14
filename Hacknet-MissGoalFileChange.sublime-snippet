@@ -1,0 +1,4 @@
+<snippet>
+	<content><![CDATA[<goal type="fileChange" target="" file="" path="" keyword="" removal="" caseSensitive=""/>]]></content>
+	<tabTrigger>MissGoalFileChange</tabTrigger>
+</snippet>
