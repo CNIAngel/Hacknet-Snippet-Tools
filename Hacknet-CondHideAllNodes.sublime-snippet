@@ -1,4 +1,4 @@
 <snippet>
-	<content><![CDATA[<HideAllNodes DelayHost="" Delay="" />]]></content>
+	<content><![CDATA[<HideAllNodes DelayHost="${1:NUM}" Delay="${2:NUM}" />$0]]></content>
 	<tabTrigger>CondHideAll</tabTrigger>
 </snippet>

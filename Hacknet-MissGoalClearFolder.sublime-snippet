@@ -1,4 +1,4 @@
 <snippet>
-	<content><![CDATA[<goal type="clearfolder" target="" path="" />]]></content>
+	<content><![CDATA[<goal type="clearfolder" target="${1:ID}" path="${2:PATH}" />$0]]></content>
 	<tabTrigger>MissGoalClearFolder</tabTrigger>
 </snippet>

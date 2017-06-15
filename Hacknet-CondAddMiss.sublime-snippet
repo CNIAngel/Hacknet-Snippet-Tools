@@ -1,4 +1,4 @@
 <snippet>
-	<content><![CDATA[<AddMissionToHubServer MissionFilePath="" TargetComp="" AssignmentTag="" />]]></content>
+	<content><![CDATA[<AddMissionToHubServer MissionFilePath="${1:PATH}" TargetComp="${2:ID}" AssignmentTag="${3:NAME}" />$0]]></content>
 	<tabTrigger>CondAddMiss</tabTrigger>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
-	<content><![CDATA[<OnAdminGained target="">
-
+	<content><![CDATA[<OnAdminGained target="${1:ID}">
+		$0
 	</OnAdminGained>]]></content>
 	<tabTrigger>CondOnAdmin</tabTrigger>
 </snippet>

@@ -1,4 +1,4 @@
 <snippet>
-	<content><![CDATA[<branch></branch>]]></content>
+	<content><![CDATA[<branch>$0</branch>]]></content>
 	<tabTrigger>MissBranch</tabTrigger>
 </snippet>

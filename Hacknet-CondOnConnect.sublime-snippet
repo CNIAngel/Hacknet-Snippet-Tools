@@ -1,6 +1,6 @@
 <snippet>
-	<content><![CDATA[<OnConnect target="" needsMissionComplete="" requiredFlasgs="">
-
+	<content><![CDATA[<OnConnect target="${1:ID}" needsMissionComplete="${2:BOOL}" requiredFlags="${3:FLAGS}">
+		$0
 	</OnConnect>]]></content>
 	<tabTrigger>CondOnConnect</tabTrigger>
 </snippet>

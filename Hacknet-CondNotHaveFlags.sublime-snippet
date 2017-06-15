@@ -1,6 +1,6 @@
 <snippet>
-	<content><![CDATA[<DoesNotHaveFlags requiredFlags="">
-
+	<content><![CDATA[<DoesNotHaveFlags requiredFlags="${1:FLAGS}">
+		$0
 	</DoesNotHaveFlags>]]></content>
 	<tabTrigger>CondNotHaveFlags</tabTrigger>
 </snippet>

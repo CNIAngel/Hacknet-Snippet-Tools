@@ -1,4 +1,4 @@
 <snippet>
-	<content><![CDATA[<AddThreadToMissionBoard ThreadFilepath="" TargetComp="" />]]></content>
+	<content><![CDATA[<AddThreadToMissionBoard ThreadFilepath="${1:PATH}" TargetComp="${2:ID}" />$0]]></content>
 	<tabTrigger>CondAddThread</tabTrigger>
 </snippet>

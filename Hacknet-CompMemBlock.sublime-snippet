@@ -1,4 +1,4 @@
 <snippet>
-	<content><![CDATA[<Block></Block>]]></content>
+	<content><![CDATA[<Block>${1:STRING}</Block>$0]]></content>
 	<tabTrigger>CompMemBlock</tabTrigger>
 </snippet>

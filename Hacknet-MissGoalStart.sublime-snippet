@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[<goals>
-
+		$0
 	</goals>]]></content>
 	<tabTrigger>MissGoalStart</tabTrigger>
 </snippet>

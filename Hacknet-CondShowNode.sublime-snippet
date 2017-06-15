@@ -1,4 +1,4 @@
 <snippet>
-	<content><![CDATA[<ShowNode DelayHost="" Delay="" Target="" />]]></content>
+	<content><![CDATA[<ShowNode DelayHost="${1:NUM}" Delay="${2:NUM}" Target="${3:ID}" />$0]]></content>
 	<tabTrigger>CondShow</tabTrigger>
 </snippet>

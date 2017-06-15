@@ -1,4 +1,4 @@
 <snippet>
-	<content><![CDATA[<Command></Command>]]></content>
+	<content><![CDATA[<Command>${1:CMD}</Command>$0]]></content>
 	<tabTrigger>CompMemCommand</tabTrigger>
 </snippet>

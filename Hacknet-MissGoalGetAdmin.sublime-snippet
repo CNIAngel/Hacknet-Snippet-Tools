@@ -1,4 +1,4 @@
 <snippet>
-	<content><![CDATA[<goal type="getadmin" target=""/>]]></content>
+	<content><![CDATA[<goal type="getadmin" target="${1:ID}"/>]]></content>
 	<tabTrigger>MissGoalGetAdmin</tabTrigger>
 </snippet>

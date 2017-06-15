@@ -1,4 +1,4 @@
 <snippet>
-	<content><![CDATA[<posting title="" reqs="" requiredRank="" ></posting>]]></content>
+	<content><![CDATA[<posting title="${1:TITLE}" reqs="${2:FLAG}" requiredRank="${3:RANK}" >${4:POST}</posting>$0]]></content>
 	<tabTrigger>MissPost</tabTrigger>
 </snippet>

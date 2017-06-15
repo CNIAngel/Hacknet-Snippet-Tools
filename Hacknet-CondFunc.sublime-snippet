@@ -1,4 +1,4 @@
 <snippet>
-	<content><![CDATA[<RunFunction FunctionName="" FunctionValue="" />]]></content>
+	<content><![CDATA[<RunFunction FunctionName="${1:NAME}" FunctionValue="${2:VALUE}" />$0]]></content>
 	<tabTrigger>CondFunc</tabTrigger>
 </snippet>

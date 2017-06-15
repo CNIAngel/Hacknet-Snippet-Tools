@@ -1,4 +1,4 @@
 <snippet>
-	<content><![CDATA[<LaunchHackerScript FilePath="" DelayHost="" Delay="" SourceComp="" TargetComp="" RequireLogsOnSource="" RequireSourceIntact="" />]]></content>
+	<content><![CDATA[<LaunchHackerScript FilePath="${1:PATH}" DelayHost="${2:NUM}" Delay="${3:NUM}" SourceComp="${4:ID}" TargetComp="${5:ID}" RequireLogsOnSource="${6:BOOL}" RequireSourceIntact="${7:BOOL}" />$0]]></content>
 	<tabTrigger>CondHackScript</tabTrigger>
 </snippet>

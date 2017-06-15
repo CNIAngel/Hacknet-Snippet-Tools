@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[<OnDisconnect>
-
+		$0
 	</OnDisconnect>]]></content>
 	<tabTrigger>CondOnDisconnect</tabTrigger>
 </snippet>

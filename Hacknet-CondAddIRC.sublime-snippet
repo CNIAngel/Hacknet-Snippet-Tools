@@ -1,4 +1,4 @@
 <snippet>
-	<content><![CDATA[<AddIRCMessage Author="" TargetComp="" Delay="" ></AddIRCMessage>]]></content>
+	<content><![CDATA[<AddIRCMessage Author="${1:NAME}" TargetComp="${2:ID}" Delay="${3:NUM}" >${4:TEXT}</AddIRCMessage>$0]]></content>
 	<tabTrigger>CondAddIRC</tabTrigger>
 </snippet>

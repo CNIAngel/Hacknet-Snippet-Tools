@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[<Commands>
-
+		${1:CMD}
 	</Commands>]]></content>
 	<tabTrigger>CompMemCommands</tabTrigger>
 </snippet>

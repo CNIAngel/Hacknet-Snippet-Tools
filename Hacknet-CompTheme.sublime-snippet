@@ -1,4 +1,4 @@
 <snippet>
-	<content><![CDATA[<customthemefile path="" name="" themePath=""/>]]></content>
+	<content><![CDATA[<customthemefile path="${1:PATH}" name="${2:NAME}" themePath="${3:PATH}"/>$0]]></content>
 	<tabTrigger>CompTheme</tabTrigger>
 </snippet>

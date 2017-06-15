@@ -1,4 +1,4 @@
 <snippet>
-	<content><![CDATA[<CopyAsset DestFilePath="" DestComp="" SourceComp="" SourceFileName="" SourceFilePath="" />]]></content>
+	<content><![CDATA[<CopyAsset DestFilePath="${1:PATH}" DestComp="${2:ID}" SourceComp="${3:ID}" SourceFileName="${4:NAME}" SourceFilePath="${5:PATH}" />$0]]></content>
 	<tabTrigger>CondCopyAsset</tabTrigger>
 </snippet>

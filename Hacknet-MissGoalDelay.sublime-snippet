@@ -1,4 +1,4 @@
 <snippet>
-	<content><![CDATA[<goal type="delay" time=""/>]]></content>
+	<content><![CDATA[<goal type="delay" time="${1:NUM}"/>$0]]></content>
 	<tabTrigger>MissGoalDelay</tabTrigger>
 </snippet>

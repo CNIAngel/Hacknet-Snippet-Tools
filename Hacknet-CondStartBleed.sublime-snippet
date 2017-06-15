@@ -1,4 +1,4 @@
 <snippet>
-	<content><![CDATA[<StartScreenBleedEffect AlertTitle="" CompleteAction="" TotalDurationSeconds="" DelayHost="" Delay="" ></StartScreenBleedEffect>]]></content>
+	<content><![CDATA[<StartScreenBleedEffect AlertTitle="${1:TITLE}" CompleteAction="${2:PATH}" TotalDurationSeconds="${3:NUM}" DelayHost="${4:NUM}" Delay="${5:NUM}" >$0</StartScreenBleedEffect>]]></content>
 	<tabTrigger>CondStartBleed</tabTrigger>
 </snippet>

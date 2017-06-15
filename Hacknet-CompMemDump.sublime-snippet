@@ -1,6 +1,6 @@
 <snippet>
-	<content><![CDATA[<memoryDumpFile name="" path="">
-
+	<content><![CDATA[<memoryDumpFile name="${1:NAME}" path="${2:PATH}">
+		$0
 	</memoryDumpFile>]]></content>
 	<tabTrigger>CompMemDump</tabTrigger>
 </snippet>

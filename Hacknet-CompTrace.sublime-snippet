@@ -1,4 +1,4 @@
 <snippet>
-	<content><![CDATA[<trace time="" />]]></content>
+	<content><![CDATA[<trace time="${1:NUM}" />$0]]></content>
 	<tabTrigger>CompTrace</tabTrigger>
 </snippet>

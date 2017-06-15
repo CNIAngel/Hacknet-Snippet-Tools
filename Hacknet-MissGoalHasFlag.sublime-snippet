@@ -1,4 +1,4 @@
 <snippet>
-	<content><![CDATA[<goal type="hasflag" target=""/>]]></content>
+	<content><![CDATA[<goal type="hasflag" target="${1:FLAG}"/>$0]]></content>
 	<tabTrigger>MissGoalHasFlag</tabTrigger>
 </snippet>

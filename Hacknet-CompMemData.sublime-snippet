@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[<Data>
-
+		${1:BLOCK}
 	</Data>]]></content>
 	<tabTrigger>CompMemData</tabTrigger>
 </snippet>

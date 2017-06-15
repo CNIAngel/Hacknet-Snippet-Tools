@@ -1,4 +1,4 @@
 <snippet>
-	<content><![CDATA[<goal type="fileupload" target="" file="" path="" destTarget="" destPath="" decrypt="" decryptPass=""/>]]></content>
+	<content><![CDATA[<goal type="fileupload" target="${1:ID}" file="${2:NAME}" path="${3:PATH}" destTarget="${4:ID}" destPath="${5:PATH}" decrypt="$[6:BOOL}" decryptPass="${7:PASS}"/>$0]]></content>
 	<tabTrigger>MissGoalFileUpload</tabTrigger>
 </snippet>

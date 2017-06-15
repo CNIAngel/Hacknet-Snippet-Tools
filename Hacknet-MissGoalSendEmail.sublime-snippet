@@ -1,4 +1,4 @@
 <snippet>
-	<content><![CDATA[<goal type="sendemail" mailServer="" recipient="" subject=""/>]]></content>
+	<content><![CDATA[<goal type="sendemail" mailServer="${1:ID}" recipient="${2:USER}" subject="${3:SUBJECT}"/>$0]]></content>
 	<tabTrigger>MissGoalSendEmail</tabTrigger>
 </snippet>

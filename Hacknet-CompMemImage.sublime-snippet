@@ -1,4 +1,4 @@
 <snippet>
-	<content><![CDATA[<Image></Image>]]></content>
+	<content><![CDATA[<Image>${1:PATH}</Image>$0]]></content>
 	<tabTrigger>CompMemImage</tabTrigger>
 </snippet>

@@ -1,4 +1,4 @@
 <snippet>
-	<content><![CDATA[<goal type="filedownload" target="" file="" path="" />]]></content>
+	<content><![CDATA[<goal type="filedownload" target="${1:ID}" file="${2:NAME}" path="${3:PATH}" />$0]]></content>
 	<tabTrigger>MissGoalFileDownload</tabTrigger>
 </snippet>

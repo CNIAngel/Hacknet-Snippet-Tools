@@ -1,4 +1,4 @@
 <snippet>
-	<content><![CDATA[<AddConditionalActions FilePath="" DelayHost="" Delay="" />]]></content>
+	<content><![CDATA[<AddConditionalActions FilePath="${1:PATH}" DelayHost="${2:NUM}" Delay="${3:NUM}" />$0]]></content>
 	<tabTrigger>CondAddCond</tabTrigger>
 </snippet>

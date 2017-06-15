@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[<Instantly>
-
+		$0
 	</Instantly>]]></content>
 	<tabTrigger>CondInst</tabTrigger>
 </snippet>

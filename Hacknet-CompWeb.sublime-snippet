@@ -1,4 +1,4 @@
 <snippet>
-	<content><![CDATA[<addWEbserver name="" url=""/>]]></content>
+	<content><![CDATA[<addWEbserver name="${1:NAME}" url="${2:URLORPATH}"/>$0]]></content>
 	<tabTrigger>CompWeb</tabTrigger>
 </snippet>

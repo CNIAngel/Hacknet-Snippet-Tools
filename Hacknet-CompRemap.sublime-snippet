@@ -1,4 +1,4 @@
 <snippet>
-	<content><![CDATA[<portRemap></portRemap>]]></content>
+	<content><![CDATA[<portRemap>${1:STRING}</portRemap>$0]]></content>
 	<tabTrigger>CompRemap</tabTrigger>
 </snippet>

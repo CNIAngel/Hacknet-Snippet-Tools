@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[<Images>
-
+		${1:IMG}
 	</Images>]]></content>
 	<tabTrigger>CompMemImages</tabTrigger>
 </snippet>

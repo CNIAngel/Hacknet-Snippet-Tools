@@ -1,4 +1,4 @@
 <snippet>
-	<content><![CDATA[<DeleteFile TargetComp="" FilePath="" FileName="" DelayHost="" Delay="" />]]></content>
+	<content><![CDATA[<DeleteFile TargetComp="${1:ID}" FilePath="${2:PATH}" FileName="${3:NAME}" DelayHost="${4:NUM}" Delay="${5:NUM}" />$0]]></content>
 	<tabTrigger>CondDeleteFile</tabTrigger>
 </snippet>

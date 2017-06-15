@@ -1,4 +1,4 @@
 <snippet>
-	<content><![CDATA[<AppendToFile DelayHost="" Delay="" TargetComp="" TargetFolderpath="" TargetFilename=""></AppendToFile>]]></content>
+	<content><![CDATA[<AppendToFile DelayHost="${1:NUM}" Delay="${2:NUM}" TargetComp="${3:ID}" TargetFolderpath="${4:PATH}" TargetFilename="${5:NAME}">${6:STRING}</AppendToFile>$0]]></content>
 	<tabTrigger>CondAppend</tabTrigger>
 </snippet>

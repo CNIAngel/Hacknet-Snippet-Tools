@@ -1,4 +1,4 @@
 <snippet>
-	<content><![CDATA[<positionNear target="" position="" total="" extraDistance="" force=""/>]]></content>
+	<content><![CDATA[<positionNear target="${1:ID}" position="${2:NUM}" total="${3:NUM}" extraDistance="${4:NUM}" force="${5:BOOL}"/>$0]]></content>
 	<tabTrigger>CompNear</tabTrigger>
 </snippet>

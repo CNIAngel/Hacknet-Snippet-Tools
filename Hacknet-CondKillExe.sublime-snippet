@@ -1,4 +1,4 @@
 <snippet>
-	<content><![CDATA[<KillExe DelayHost="" Delay="" ExeName="" />]]></content>
+	<content><![CDATA[<KillExe DelayHost="${1:NUM}" Delay="${2:NUM}" ExeName="${3:EXE}" />$0]]></content>
 	<tabTrigger>CondKillExe</tabTrigger>
 </snippet>

@@ -1,4 +1,4 @@
 <snippet>
-	<content><![CDATA[<CrashComputer TargetComp="" CrashSource="" DelayHost="" Delay="" />]]></content>
+	<content><![CDATA[<CrashComputer TargetComp="${1:ID}" CrashSource="${2:ID}" DelayHost="${3:NUM}" Delay="${4:NUM}" />$0]]></content>
 	<tabTrigger>CondCrashComp</tabTrigger>
 </snippet>
